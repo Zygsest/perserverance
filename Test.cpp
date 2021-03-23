@@ -8,9 +8,7 @@ using namespace std;
         double x = 0.0, sum = 0, total = 0;
         double grit = 0.0;
         
-        if(x>=5)
-        cout << "Enter a number between 1-5!" << endl;
-        return 0;
+        
        
         total++;
         cout << "New projects and ideas sometimes distract me from previous ones" << endl;
